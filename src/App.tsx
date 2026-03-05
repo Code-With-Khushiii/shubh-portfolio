@@ -185,7 +185,7 @@ function App() {
 
             {/* Logo */}
             <div className="text-xl md:text-2xl font-display text-black tracking-wide">
-              SOHAN ANAND HANAGANDI
+            SHUBH KAMDAR
             </div>
 
             {/* Desktop Menu */}
