@@ -184,7 +184,7 @@ function App() {
           <div className="flex items-center justify-between">
 
             {/* Logo */}
-            <div className="text-xl md:text-2xl font-display text-black tracking-wide">
+            <div className="text-lg sm:text-xl md:text-2xl font-display text-black tracking-wide truncate max-w-[70%]">
             SHUBH KAMDAR
             </div>
 
