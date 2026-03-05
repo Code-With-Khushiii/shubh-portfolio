@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { ChevronDown, Database, TrendingUp, Mail, Phone, Linkedin, Award, Code, Lightbulb, Rocket, ExternalLink, X, Brain, Server } from 'lucide-react';
+import { ChevronDown, Database, TrendingUp, Mail, Phone, Menu, Linkedin, Award, Code, Lightbulb, Rocket, ExternalLink, X, Brain, Server } from 'lucide-react';
 
 function App() {
   const [activeSection, setActiveSection] = useState('hero');
